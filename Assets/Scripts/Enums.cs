@@ -54,6 +54,7 @@ public class Enums
         humanoid, 
         animal,
         beast,
+        none,
 
     }
 

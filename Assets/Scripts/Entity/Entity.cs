@@ -26,22 +26,22 @@ public class Entity : MonoBehaviour {
 
     public int GetHealth()
     {
-        return 0;
+        return health;
     }
 
     public int GetArmourValue()
     {
-        return 0;
+        return armourValue;
     }
 
     public string GetName()
     {
-        return null;
+        return name;
     }
 
     public Enums.Race GetRace()
     {
-        return null;
+        return race;
     }
 
 }
